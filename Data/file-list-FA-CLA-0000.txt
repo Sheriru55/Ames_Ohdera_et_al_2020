@@ -1,0 +1,2 @@
+-rw-r--r--@ 1 cherylames  staff  10165073 Aug  5 10:20 BC-16S.trim.550.fasta.gz
+-rw-r--r--@ 1 cherylames  staff  21030764 Aug  5 10:20 BC-COI.trim.550.fasta.gz
